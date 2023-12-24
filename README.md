@@ -1,16 +1,27 @@
 # hw_4
 
-A new Flutter project.
+It is beginning part of messenger and for now it only takes contacts randomly
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Prerequisites
+Before you begin, ensure you have Flutter and Dart installed on your local machine. If not, follow the instructions on the [official Flutter website](https://docs.flutter.dev/get-started/install).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+```bash
+    git clone https://github.com/your-username/hw_4.git
+```
+2. Navigate to the project directory:
+```bash
+    cd hw_4
+```
+3. Install dependencies:
+```bash
+    flutter pub get
+```
+## Running the App
+To run the app on an emulator or a connected device, use the following command:
+```bash
+flutter run
+```
